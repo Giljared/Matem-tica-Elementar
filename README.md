@@ -11,15 +11,15 @@ Quais são os conceitos fundamentais da matemática?
 
 Teoria da demonstração, teoria de modelos, computabilidade, sintaxe e semântica de teorias de conjuntos e de números, todas emergem da atividade em fundamentos da matemática.
 
-Questões relevantes no estudo da matemática elementar:
-O que significa geometria Elementar?
-O que estuda a Álgebra Elementar?
-Quais são os conteúdos básicos da Matemática?
-Quais são os 4 elementos da Matemática?
-Quais são os 5 eixos da Matemática?
-Qual a importância dos fundamentos da matemática?
-O que e uma função não elementar?
-Quais são as funções matematicas?
+### Questões relevantes no estudo da matemática elementar:
+#### O que significa geometria Elementar?
+#### O que estuda a Álgebra Elementar?
+#### Quais são os conteúdos básicos da Matemática?
+#### Quais são os 4 elementos da Matemática?
+#### Quais são os 5 eixos da Matemática?
+#### Qual a importância dos fundamentos da matemática?
+#### O que e uma função não elementar?
+#### Quais são as funções matematicas?
 
 
 ## Fundamentos da Matemática Elementar – Volume 1 – Conjuntos e Funções
