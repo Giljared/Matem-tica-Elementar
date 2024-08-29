@@ -1,6 +1,6 @@
 # Coleção Completa Fundamentos da Matemática Elementar + Manuais do Professor (11 Volumes)
 
-![alt text](image.png)
+
 ![imagem coleção matemática elementar](https://github.com/user-attachments/assets/efc45b48-65d9-49ba-80a1-cce25947ae0c)
 
 O que estuda a matemática elementar?
